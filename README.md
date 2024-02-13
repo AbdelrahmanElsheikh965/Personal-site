@@ -1,3 +1,3 @@
 # portfolio website
 
-Link deployed on (Hithub Pages): https://abdelrahmanelsheikh965.github.io/Personal-site/
+Link deployed on (Github Pages): https://abdelrahmanelsheikh965.github.io/Personal-site/
